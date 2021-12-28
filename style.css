@@ -1,0 +1,74 @@
+
+
+#title{
+    background-color: #816868;
+    font-size: 60px;
+    height: 24vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:0px;
+    padding-top: 0px;
+}
+
+body{
+    margin: 0;
+    background-color: rgb(230, 230, 230);
+    font-family: 'Fira Sans', sans-serif;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#table{
+    height: 45vh;
+    font-size: 18px;
+    width: 65vh;
+}
+
+
+
+
+input{
+    width: 40vh;
+}
+
+
+div{
+    background-color: rgb(219, 180, 136);
+    text-align: center;
+    height: 5vh;
+    width: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tabsend{
+
+}
+
+#send:hover{
+    background-color: rgb(218, 157, 77);
+    cursor: pointer;
+}
+
+#img{
+    float: left;
+    width: 5vh;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+
+#h4{
+    
+    background-color: #c4adad;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+
+
